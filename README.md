@@ -6,7 +6,7 @@ Nextcloud promotion material like logos, sticker templates, flyers and presentat
 
 ## Logo
 
-![](square.png)
+![](nextcloud-logo.png)
 
 The logo is white on light blue (#0082c9, C210 M115 Y4 K0 or 100%,49%,21%,0%, [Pantone Process Blue C](https://www.pantone.com/color-finder/Process-Blue-C)). The name »Nextcloud« can be optionally left out though.
 
