@@ -16,14 +16,14 @@ The typeface of the logo (or similar ones) should not be used anywhere else. Ins
 
 ## Sticker
 
-![](sticker 45mm.png)
+![](Merch/sticker 45mm.png)
 
 Stickers are outdoor foil, 45mm circular. We always order through [Flyeralarm (German)](http://www.flyeralarm.com/de/shop/configurator/index/id/34/aufkleber-outdoor.html#159=582&160=583&161=615&162=585) and usually get a batch of 2500 for around 70 €.
 
 
 ## Shirt
 
-![](shirt.png)
+![](Merch/shirt.png)
 
 Shirts are not printed yet, but would be light blue with simple white logo print centered on the chest. In the past we used EarthPositive EP03 slim-fit ordered through [Black Star Cotton (German)](http://www.cotton.de/hersteller/earthpositive/ep03-mens-slim-fit-shirt/) and the shirts were really good. Regarding size distribution, we ordered 50 consisting of: 6 S, 16 M, 17 L, 8 XL, 3 XXL – which turned out well. Shirts and print combined cost about 7 € per shirt.
 
