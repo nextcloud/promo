@@ -12,6 +12,9 @@ The logo is white on light blue (#0082c9). For printing we use [Pantone 285 C](h
 
 The typeface of the logo (or similar ones) should not be used anywhere else. Instead use [Open Sans](https://en.wikipedia.org/wiki/Open_Sans), in light weight (not regular!). Use semibold (not bold!) sparingly and only for selected emphasis.
 
+There are several variations of our logo. In general use the one above but in a very small space (think a small avatar or 16x16 icon) use the version without text.
+
+In a large space, think 150x150 pixels or larger, you can use the version with the cloudy background. Last but not least, if a blue background is really inappropriate, use the version with black text. This is NOT the preferred logo but a fall-back!
 
 
 ## Sticker
