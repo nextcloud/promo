@@ -14,7 +14,7 @@ The typeface of the logo (or similar ones) should not be used anywhere else. Ins
 
 There are several variations of our logo. In general use the one above but in a very small space (think a small avatar or 16x16 icon) use the version without text.
 
-In a large space, think 150x150 pixels or larger, you can use the version with the cloudy background. Last but not least, if a blue background is really inappropriate, use the version with blue logo and text. This is NOT the preferred logo but a fallback!
+In a large space, think 150x150 pixels or larger, you can use the version with the dotted background (which is at 10% opacity on the Nextcloud blue). Last but not least, if a blue background is really inappropriate, use the version with blue logo and text. This is NOT the preferred logo but a fallback!
 
 
 ## Sticker
