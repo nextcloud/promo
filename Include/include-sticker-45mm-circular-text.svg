@@ -26,7 +26,7 @@
    inkscape:export-ydpi="300.09631"><metadata
    id="metadata19"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs17"><mask
    maskUnits="userSpaceOnUse"
    id="mask4874"><g
@@ -68,17 +68,22 @@
    guidetolerance="10"
    showgrid="false"
    inkscape:zoom="2.0000001"
-   inkscape:cx="79.416823"
+   inkscape:cx="-63.33317"
    inkscape:cy="23.865124"
    fit-margin-top="0"
    fit-margin-left="0">
 	</sodipodi:namedview>
-<rect
+<circle
+   style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46875006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.99999905;stroke-opacity:1;paint-order:markers stroke fill"
+   id="path4779"
+   cx="95.669296"
+   cy="95.669296"
+   r="79.724411" /><rect
    style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.43872762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.99999905;stroke-opacity:1;paint-order:markers stroke fill"
    id="rect826"
    width="191.33859"
    height="191.33859"
-   x="-2.0320898e-05"
+   x="-2.7362817e-05"
    y="2.8773611e-06" />
 
 
@@ -88,7 +93,7 @@
 
 <g
    id="g4812"
-   transform="matrix(0.91111115,0,0,0.91111115,8.5039334,8.5039334)"><rect
+   transform="matrix(0.91111115,0,0,0.91111115,8.5039332,8.5039334)"><rect
    ry="79.724411"
    rx="79.724411"
    y="15.944887"
@@ -115,6 +120,7 @@
 
 
 
+
 <circle
    r="63.04401"
    transform="rotate(-152.62066)"
@@ -129,6 +135,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.56249809px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff;fill-opacity:1"
      id="textPath5011"
      xlink:href="#circle4767">more diversity → more empowerment → more collaboration → </textPath></text>
+
 
 
 
