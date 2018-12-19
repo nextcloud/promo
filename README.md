@@ -1,8 +1,8 @@
 # :tada: Nextcloud promo material
 
-Nextcloud promotion material like logos, sticker templates, flyers and presentation slides. Everyone is welcome to print material and present Nextcloud at events – permission is not needed, everyone in the community can help! :)
+Nextcloud promotion material like logos, sticker templates, flyers and presentation slides. Everyone is welcome to print material and present Nextcloud at events – everyone in the community can help! :)
 
-
+Please do keep in mind our [trademark guidelines.](https://nextcloud.com/trademarks/) In short, don't pretend to be 'official' Nextcloud or offer commercial services, that's exclusive to Nextcloud GmbH.
 
 ## Logo
 
