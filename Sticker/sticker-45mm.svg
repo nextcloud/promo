@@ -26,7 +26,7 @@
    inkscape:export-ydpi="300"><metadata
    id="metadata19"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs17"><linearGradient
    gradientTransform="matrix(1.2755902,0,0,1.2755905,-1.8138916e-5,1.0977946e-5)"
    inkscape:collect="always"
@@ -92,12 +92,22 @@
    guidetolerance="10"
    showgrid="false"
    inkscape:zoom="2.8284271"
-   inkscape:cx="126.55153"
+   inkscape:cx="50.53755"
    inkscape:cy="120.3807"
    fit-margin-top="0"
    fit-margin-left="0">
 	</sodipodi:namedview>
 <rect
+   inkscape:export-ydpi="95.955811"
+   inkscape:export-xdpi="95.955811"
+   inkscape:export-filename="sticker-mockup.png"
+   style="opacity:1;fill:url(#linearGradient8816);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect8798"
+   width="191.33858"
+   height="191.33858"
+   x="-1.7763568e-15"
+   y="3.1361496e-06"
+   clip-path="url(#clipPath8812)" /><rect
    y="3.1361496e-06"
    x="-1.7763568e-15"
    height="191.33858"
@@ -107,17 +117,7 @@
    inkscape:export-filename="sticker-45mm.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300" />
-<rect
-   inkscape:export-ydpi="300"
-   inkscape:export-xdpi="300"
-   inkscape:export-filename="sticker-mockup.png"
-   style="opacity:1;fill:url(#linearGradient8816);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="rect8798"
-   width="191.33858"
-   height="191.33858"
-   x="-1.7763568e-15"
-   y="3.1361496e-06"
-   clip-path="url(#clipPath8812)" />
+
 
 <path
    inkscape:connector-curvature="0"

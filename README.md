@@ -21,7 +21,7 @@ In a large space, think 150x150 pixels or larger, you can use the version with t
 
 ![](Sticker/sticker-mockup.png)
 
-Stickers are outdoor foil, 45mm circular – printing file is in `[Sticker/sticker-45mm.png](Sticker/sticker-45mm.png)`. We always order through [Flyeralarm (German)](https://www.flyeralarm.com/de/shop/configurator/index/quantity/7983966#159=601&160=602&161=615&162=585) and usually get a batch of 2500 for around 70 €.
+Stickers are outdoor foil, 45mm circular – printing file is in [Sticker/sticker-45mm.png](Sticker/sticker-45mm.png). We always order through [Flyeralarm (German)](https://www.flyeralarm.com/de/shop/configurator/index/quantity/7983966#159=601&160=602&161=615&162=585) and usually get a batch of 2500 for around 70 €.
 
 
 ## Shirt
