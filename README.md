@@ -2,7 +2,7 @@
 
 Nextcloud promotion material like logos, sticker templates, flyers and presentation slides. Everyone is welcome to print material and present Nextcloud at events – everyone in the community can help! :)
 
-Please do keep in mind our [trademark guidelines.](https://nextcloud.com/trademarks/) In short, don't pretend to be 'official' Nextcloud or offer commercial services, that's exclusive to Nextcloud GmbH.
+Please do keep in mind our [trademark guidelines.](https://nextcloud.com/trademarks/) You are not allowed to use our logo or any of our materials including logo or screenshots in any commercial offering unless you have explicit written permission from Nextcloud GmbH.
 
 ## Logo
 
@@ -14,7 +14,7 @@ The typeface of the logo (or similar ones) should not be used anywhere else. Ins
 
 There are several variations of our logo. In general use the one above but in a very small space (think a small avatar or 16x16 icon) use the version without text.
 
-In a large space, think 150x150 pixels or larger, you can use the version with the background (which is at 10% opacity on the Nextcloud blue). Last but not least, if a blue background is really inappropriate, use the version with blue logo and text. This is NOT the preferred logo but a fallback!
+In a large space, think 150x150 pixels or larger, you can use the version with the background (which is at 10% opacity on the Nextcloud blue). Last but not least, if a blue background is really inappropriate, use the version with blue logo and text on white. This is NOT the preferred logo but a fallback! On a colored or black background where you can't use blue, use the white version of the logo.
 
 
 ## Sticker
