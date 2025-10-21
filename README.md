@@ -1,4 +1,12 @@
-# :tada: Nextcloud promo material
+# 🎉 Nextcloud promo material
+
+**This repository is archived.**
+
+**The most up-to-date Nextcloud brand assets and guidelines are available at [nextcloud.com/brand](https://nextcloud.com/brand/)**
+
+[![](Nextcloud-brand-page.png)](https://nextcloud.com/brand/)
+
+---
 
 Nextcloud promotion material like logos, sticker templates, flyers and presentation slides. Everyone is welcome to print material and present Nextcloud at events – everyone in the community can help! :)
 
